@@ -14,6 +14,8 @@
 ### 3번째 커밋을 해봅니다 ....
 
 *`notion`에 git 사용법 내용을 기록하였습니다* 
+* 4th 커밋을 위한 수정
+
 
 ```python
 print("hello world!")
